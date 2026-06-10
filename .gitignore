@@ -1,0 +1,20 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# Logs and generated data
+*.log
+training_log.csv
+
+# VS Code settings - optional
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
